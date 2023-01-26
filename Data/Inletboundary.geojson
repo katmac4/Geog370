@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Inletboundary",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "oldinlet": "2002 Inlet Boundary" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -77.775632789604984, 34.237566570803061 ], [ -77.774135302652198, 34.235877550998019 ], [ -77.770799936449194, 34.234318394920052 ] ] ] } }
+]
+}

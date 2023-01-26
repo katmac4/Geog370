@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Hazardzone",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "zone": "Inlet Hazard Zone" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -77.775363583676238, 34.237601005456042 ], [ -77.772979849763374, 34.244308436588348 ], [ -77.766403168236224, 34.24085620487233 ], [ -77.771244903297301, 34.234508933831727 ], [ -77.773036966752258, 34.234452959236357 ], [ -77.775363583676238, 34.237601005456042 ] ] ] ] } }
+]
+}
