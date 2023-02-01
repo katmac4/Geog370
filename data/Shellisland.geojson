@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Shellisland",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": 1, "Shellisle": "Shell Island Resort" }, "geometry": { "type": "Point", "coordinates": [ -77.775209342285592, 34.23592575486358 ] } }
-]
-}
