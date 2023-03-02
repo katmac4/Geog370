@@ -8,17 +8,20 @@
 <body>
 <h1>Homework 6 part 2: Census data choropleth with a ratio</h1>
 <h2>Katie Nicholls</h2>
-<h3>Using Data available from the 2000 US census, I made a map that shows the percentage of the population that is above the age of 25 and has a bachelor's degree or higher for each county in the state of Georgia. </h3>
+<h3>Using data from the 2000 US Census, I made a map that shows the ratio of unmarried same sex couple households to the total number of unmarried households in the state of Georgia by county.</h3>
 <!-- Your map goes here -->
 <h2>Choropleth with Equal Interval Classes</h2>
+<h3> Equal interval classes split the boundaries of each class up into equal parts (ex.1-5,5-10,10-15) This makes the classes easy to read and understand, but if data is concentrated in one class, the true variability isn't shown.</h3>
 <a href="HW6EI.png">
     <img src="HW6EI.png" alt="your map" width='500px'>
     </a>
 <h2>Choropleth with "Pretty Break" Classes</h2>
+<h3> Pretty break classes find natural breaks in the data to split up the classes. This is good for grouping data where there are distinct shifts in data, but if there are large outliers or no natural breaks in the data, it can misrepresent polygons.</h3>
 <a href="HW6EPB.png">
     <img src="HW6EPB.png" alt="your map" width='500px'>
     </a>
 <h2>Choropleth with Equal Quantile Classes</h2>
+<h3> Equal quantile classes split the data up so that there are equal numbers of each entry in each class. This works well when you have data that are really close together, but doesn't work well when the data have large differences between them.</h3>
 <a href="HW6EQC.png">
     <img src="HW6EQC.png" alt="your map" width='500px'>
     </a>
