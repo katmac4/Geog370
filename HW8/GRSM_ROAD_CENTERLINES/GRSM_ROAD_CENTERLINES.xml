@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>GRSM_ROAD_CENTERLINES</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>These data depict Road Segment Centerlines and attributes for roads that are managed and maintained by the National Park Service. Road data are used for many purposes including planning and management, mapping and condition assessment, routing and navigation, public information, emergency response, and research. A current, accurate representation of park roads is needed for national reporting and a variety of mapping requirements at all levels of the National Park Service and the general public. A National-level dataset allows the NPS to communicate a consistent and high-quality roads database to NPS staff, partners, visitors, and entities that produce maps and location-based services of park units. The collection, storage, and management of road-related data are important components of everyday business activities in many Federal and State land-managing agencies, road organizations, and businesses. From a management perspective, road data must often mesh closely with other types of infrastructure, resource, and facility enterprise data. For the public using paper maps, the internet, GPS or other instrumentation, standard data formats enable users to consistently and predictably identify specific trails and a core set of corresponding information. Today, digital road data are a necessity throughout a road data management life-cycle, from road planning through design, construction, operation, and maintenance. Automating, sharing, and leveraging road data through this widely accepted standard can provide a variety of important benefits Efficiency â€“ creating and gathering road data that are standardized and readily usable. Compatibility â€“ compiling data from one project or discipline that can be compatible with other applications; Consistency â€“ using the same standards, meshing data produced by one organization with that developed by another; Speed â€“ hastening the availability of data through a reduction in duplicative efforts and lowered production costs (Applications can be developed more quickly and with more interoperability by using existing standards-compliant data); Conflict resolution â€“ resolving conflicting road data more easily if compliant to the same standards; Reliability â€“ improving the quality of shared road data by increasing the number of individuals who find and correct errors; and Reusability â€“ allow maximum reuse across agencies and support objectives of EGovernment (E-Gov) initiatives and enterprise architecture.</abstract>
+            <purpose>Great Smoky Mountains National Park Road Centerlines</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>roads</themekey>
+                <themekey>transportation</themekey>
+                <themekey>Great Smoky Mountains National Park</themekey>
+                <themekey>NPS</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>The National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data and related graphics (i.e. GIF or JPG format files) are not legal documents and are not intended to be used as such. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data are directly acquired from an NPS server and not indirectly through other sources which may have changed the data in some way. Although these data have been processed successfully on computer systems at the National Park Service, no warranty expressed or implied is made regarding the utility of the data on other systems for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.</useconst>
+        <datacred>Great Smoky Mountains National Park</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
